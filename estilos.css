@@ -2,22 +2,23 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 30px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(244, 243, 243);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url(nubes-moradas-7937.webp);
+    background-image: url(fondo\ pagina.webp);
+
     
 
 }
 .titulo{
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
 
 }
